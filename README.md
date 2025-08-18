@@ -1,8 +1,8 @@
 # 홍익 졸업 봇
 
 <p align="center">
-  <img src="/![대표 이미지](https://github.com/ROKSSAN/team4-frontend/blob/main/team4-frontend-dev%20copy/public/main.png](https://raw.githubusercontent.com/ROKSSAN/team4-frontend/refs/heads/main/team4-frontend-dev%20copy/public/main.png)
-" alt="프로젝트 대표 이미지" width="800"/>
+  <img src="https://raw.githubusercontent.com/ROKSSAN/team4-frontend/refs/heads/main/team4-frontend-dev%20copy/public/main.png" 
+       alt="프로젝트 대표 이미지" width="800"/>
 </p>
 
 ---
